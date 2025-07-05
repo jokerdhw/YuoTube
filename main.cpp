@@ -26,8 +26,5 @@ double get_m() {
 int main() {
 	double m = get_m();
 	std::cout << "m = " << m << std::endl;
-
-	std::cout << "Hello World" << std::endl;
-
 	return 0;
 }
